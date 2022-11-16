@@ -1,4 +1,4 @@
-# 4bit-Modular-Inverse-module
+# Modular-Inverse-module
 Montgomery Inverse with Binary Extended Euclidean Algorithm, Easily extendable 
 
 ![image](https://user-images.githubusercontent.com/53184086/201279487-948721f5-98ea-4baa-8183-50dae7ee4acd.png)
